@@ -15,10 +15,10 @@ Installation Step :
 4) chmod +x t-ban.sh
 
 
-5) bash requirement.sh
+5) bash ReDBackeD.sh
 
 
-6) bash t-ban.sh
+6) bash Bash.sh
 
 
 
