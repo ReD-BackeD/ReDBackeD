@@ -12,13 +12,13 @@ Installation Step :
 3) chmod +x requirement.sh
 
 
-4) chmod +x t-ban.sh
+4) chmod +x Bash.sh
 
 
 5) bash ReDBackeD.sh
 
 
-6) bash Bash.sh
+6) bash t-ban.sh
 
 
 
