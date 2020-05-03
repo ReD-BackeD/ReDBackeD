@@ -1,5 +1,5 @@
 # Termux Banner
-#Script by RED BACKED
+# Script by RED BACKED
 
 Installation Step :
 
