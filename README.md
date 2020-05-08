@@ -3,7 +3,7 @@
 
 Installation Step :
 
-1) git clone https://github.com/ReD-BackeD/ReDBackeD
+1) git clone https://github.com/ReD-BackeD/ReDBackeD.git
 
 
 2) cd ReDBackeD
